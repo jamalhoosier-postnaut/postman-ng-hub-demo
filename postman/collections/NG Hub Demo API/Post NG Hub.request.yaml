@@ -1,0 +1,8 @@
+$kind: http-request
+description: ""
+url: https://postman-echo.com/get
+method: POST
+body:
+  type: json
+  content: ""
+order: 4381450742513735
